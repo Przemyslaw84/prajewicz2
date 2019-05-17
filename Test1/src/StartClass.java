@@ -5,6 +5,7 @@ public class StartClass {
 	System.out.println("Dzieñ dobry");
  
 	System.out.println("Dobranocka");
+	System.out.println("Dobranocka");
  
 	}
 

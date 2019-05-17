@@ -6,7 +6,8 @@ public class StartClass {
  
 	System.out.println("Dobranocka");
 	System.out.println("Dobranocka");
- 
+	System.out.println("Dobranocka");
+	 
 	}
 
 }
